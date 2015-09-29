@@ -1,0 +1,6 @@
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Strings-And-Text-Processing-HW\06.Palindromes\bin\Debug\06.Palindromes.exe.config
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Strings-And-Text-Processing-HW\06.Palindromes\bin\Debug\06.Palindromes.exe
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Strings-And-Text-Processing-HW\06.Palindromes\bin\Debug\06.Palindromes.pdb
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Strings-And-Text-Processing-HW\06.Palindromes\obj\Debug\06.Palindromes.csprojResolveAssemblyReference.cache
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Strings-And-Text-Processing-HW\06.Palindromes\obj\Debug\06.Palindromes.exe
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Strings-And-Text-Processing-HW\06.Palindromes\obj\Debug\06.Palindromes.pdb

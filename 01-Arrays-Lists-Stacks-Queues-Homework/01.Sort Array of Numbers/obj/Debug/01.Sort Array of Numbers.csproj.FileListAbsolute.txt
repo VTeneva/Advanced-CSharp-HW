@@ -1,0 +1,9 @@
+D:\VT\Advanced-C-Sharp-HW\01-Arrays-Lists-Stacks-Queues-Homework\01.Sort Array of Numbers\bin\Debug\01.Sort Array of Numbers.exe.config
+D:\VT\Advanced-C-Sharp-HW\01-Arrays-Lists-Stacks-Queues-Homework\01.Sort Array of Numbers\bin\Debug\01.Sort Array of Numbers.exe
+D:\VT\Advanced-C-Sharp-HW\01-Arrays-Lists-Stacks-Queues-Homework\01.Sort Array of Numbers\bin\Debug\01.Sort Array of Numbers.pdb
+D:\VT\Advanced-C-Sharp-HW\01-Arrays-Lists-Stacks-Queues-Homework\01.Sort Array of Numbers\obj\Debug\01.Sort Array of Numbers.csprojResolveAssemblyReference.cache
+D:\VT\Advanced-C-Sharp-HW\01-Arrays-Lists-Stacks-Queues-Homework\01.Sort Array of Numbers\obj\Debug\01.Sort Array of Numbers.exe
+D:\VT\Advanced-C-Sharp-HW\01-Arrays-Lists-Stacks-Queues-Homework\01.Sort Array of Numbers\obj\Debug\01.Sort Array of Numbers.pdb
+E:\SoftUni\Advanced CSharp\01.Arrays Lists Stacks Queues\01-Arrays-Lists-Stacks-Queues-Homework\01.Sort Array of Numbers\bin\Debug\01.Sort Array of Numbers.exe.config
+E:\SoftUni\Advanced CSharp\01.Arrays Lists Stacks Queues\01-Arrays-Lists-Stacks-Queues-Homework\01.Sort Array of Numbers\obj\Debug\01.Sort Array of Numbers.exe
+E:\SoftUni\Advanced CSharp\01.Arrays Lists Stacks Queues\01-Arrays-Lists-Stacks-Queues-Homework\01.Sort Array of Numbers\obj\Debug\01.Sort Array of Numbers.pdb

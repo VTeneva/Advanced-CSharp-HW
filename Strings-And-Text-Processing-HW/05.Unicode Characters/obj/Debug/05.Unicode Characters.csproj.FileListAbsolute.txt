@@ -1,0 +1,6 @@
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Strings-And-Text-Processing-HW\05.Unicode Characters\bin\Debug\05.Unicode Characters.exe.config
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Strings-And-Text-Processing-HW\05.Unicode Characters\bin\Debug\05.Unicode Characters.exe
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Strings-And-Text-Processing-HW\05.Unicode Characters\bin\Debug\05.Unicode Characters.pdb
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Strings-And-Text-Processing-HW\05.Unicode Characters\obj\Debug\05.Unicode Characters.csprojResolveAssemblyReference.cache
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Strings-And-Text-Processing-HW\05.Unicode Characters\obj\Debug\05.Unicode Characters.exe
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Strings-And-Text-Processing-HW\05.Unicode Characters\obj\Debug\05.Unicode Characters.pdb

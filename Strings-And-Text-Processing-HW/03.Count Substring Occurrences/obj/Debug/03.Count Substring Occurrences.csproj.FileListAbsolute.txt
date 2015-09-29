@@ -1,0 +1,6 @@
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Strings-And-Text-Processing-HW\03.Count Substring Occurrences\bin\Debug\03.Count Substring Occurrences.exe.config
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Strings-And-Text-Processing-HW\03.Count Substring Occurrences\bin\Debug\03.Count Substring Occurrences.exe
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Strings-And-Text-Processing-HW\03.Count Substring Occurrences\bin\Debug\03.Count Substring Occurrences.pdb
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Strings-And-Text-Processing-HW\03.Count Substring Occurrences\obj\Debug\03.Count Substring Occurrences.csprojResolveAssemblyReference.cache
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Strings-And-Text-Processing-HW\03.Count Substring Occurrences\obj\Debug\03.Count Substring Occurrences.exe
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Strings-And-Text-Processing-HW\03.Count Substring Occurrences\obj\Debug\03.Count Substring Occurrences.pdb

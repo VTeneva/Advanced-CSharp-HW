@@ -1,0 +1,5 @@
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Methods-Homework\04.First Larger Than Neighbours\bin\Debug\04.First Larger Than Neighbours.exe.config
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Methods-Homework\04.First Larger Than Neighbours\bin\Debug\04.First Larger Than Neighbours.exe
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Methods-Homework\04.First Larger Than Neighbours\bin\Debug\04.First Larger Than Neighbours.pdb
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Methods-Homework\04.First Larger Than Neighbours\obj\Debug\04.First Larger Than Neighbours.exe
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Methods-Homework\04.First Larger Than Neighbours\obj\Debug\04.First Larger Than Neighbours.pdb

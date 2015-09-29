@@ -1,0 +1,5 @@
+E:\SoftUni\Advanced CSharp\01.Arrays Lists Stacks Queues\01-Arrays-Lists-Stacks-Queues-Homework\08.Lego Blocks\bin\Debug\08.Lego Blocks.exe.config
+E:\SoftUni\Advanced CSharp\01.Arrays Lists Stacks Queues\01-Arrays-Lists-Stacks-Queues-Homework\08.Lego Blocks\bin\Debug\08.Lego Blocks.exe
+E:\SoftUni\Advanced CSharp\01.Arrays Lists Stacks Queues\01-Arrays-Lists-Stacks-Queues-Homework\08.Lego Blocks\bin\Debug\08.Lego Blocks.pdb
+E:\SoftUni\Advanced CSharp\01.Arrays Lists Stacks Queues\01-Arrays-Lists-Stacks-Queues-Homework\08.Lego Blocks\obj\Debug\08.Lego Blocks.exe
+E:\SoftUni\Advanced CSharp\01.Arrays Lists Stacks Queues\01-Arrays-Lists-Stacks-Queues-Homework\08.Lego Blocks\obj\Debug\08.Lego Blocks.pdb

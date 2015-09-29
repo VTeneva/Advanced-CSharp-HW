@@ -1,0 +1,6 @@
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Strings-And-Text-Processing-HW\04.Text Filter\bin\Debug\04.Text Filter.exe.config
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Strings-And-Text-Processing-HW\04.Text Filter\bin\Debug\04.Text Filter.exe
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Strings-And-Text-Processing-HW\04.Text Filter\bin\Debug\04.Text Filter.pdb
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Strings-And-Text-Processing-HW\04.Text Filter\obj\Debug\04.Text Filter.csprojResolveAssemblyReference.cache
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Strings-And-Text-Processing-HW\04.Text Filter\obj\Debug\04.Text Filter.exe
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Strings-And-Text-Processing-HW\04.Text Filter\obj\Debug\04.Text Filter.pdb

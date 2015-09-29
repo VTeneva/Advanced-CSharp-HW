@@ -1,0 +1,5 @@
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Methods-Homework\02.Last Digit of Numb\bin\Debug\02.Last Digit of Numb.exe.config
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Methods-Homework\02.Last Digit of Numb\bin\Debug\02.Last Digit of Numb.exe
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Methods-Homework\02.Last Digit of Numb\bin\Debug\02.Last Digit of Numb.pdb
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Methods-Homework\02.Last Digit of Numb\obj\Debug\02.Last Digit of Numb.exe
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Methods-Homework\02.Last Digit of Numb\obj\Debug\02.Last Digit of Numb.pdb

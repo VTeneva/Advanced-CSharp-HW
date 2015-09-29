@@ -1,0 +1,6 @@
+E:\SoftUni\Advanced CSharp\01.Arrays Lists Stacks Queues\01-Arrays-Lists-Stacks-Queues-Homework\09.Stuck Numbers\bin\Debug\09.Stuck Numbers.exe.config
+E:\SoftUni\Advanced CSharp\01.Arrays Lists Stacks Queues\01-Arrays-Lists-Stacks-Queues-Homework\09.Stuck Numbers\bin\Debug\09.Stuck Numbers.exe
+E:\SoftUni\Advanced CSharp\01.Arrays Lists Stacks Queues\01-Arrays-Lists-Stacks-Queues-Homework\09.Stuck Numbers\bin\Debug\09.Stuck Numbers.pdb
+E:\SoftUni\Advanced CSharp\01.Arrays Lists Stacks Queues\01-Arrays-Lists-Stacks-Queues-Homework\09.Stuck Numbers\obj\Debug\09.Stuck Numbers.csprojResolveAssemblyReference.cache
+E:\SoftUni\Advanced CSharp\01.Arrays Lists Stacks Queues\01-Arrays-Lists-Stacks-Queues-Homework\09.Stuck Numbers\obj\Debug\09.Stuck Numbers.exe
+E:\SoftUni\Advanced CSharp\01.Arrays Lists Stacks Queues\01-Arrays-Lists-Stacks-Queues-Homework\09.Stuck Numbers\obj\Debug\09.Stuck Numbers.pdb

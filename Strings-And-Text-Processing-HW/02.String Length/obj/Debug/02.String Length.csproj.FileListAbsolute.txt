@@ -1,0 +1,6 @@
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Strings-And-Text-Processing-HW\02.String Length\bin\Debug\02.String Length.exe.config
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Strings-And-Text-Processing-HW\02.String Length\bin\Debug\02.String Length.exe
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Strings-And-Text-Processing-HW\02.String Length\bin\Debug\02.String Length.pdb
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Strings-And-Text-Processing-HW\02.String Length\obj\Debug\02.String Length.csprojResolveAssemblyReference.cache
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Strings-And-Text-Processing-HW\02.String Length\obj\Debug\02.String Length.exe
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Strings-And-Text-Processing-HW\02.String Length\obj\Debug\02.String Length.pdb

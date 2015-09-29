@@ -1,0 +1,6 @@
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Regular-Expressions-HW\01.Series of Letters\bin\Debug\01.Series of Letters.exe.config
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Regular-Expressions-HW\01.Series of Letters\bin\Debug\01.Series of Letters.exe
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Regular-Expressions-HW\01.Series of Letters\bin\Debug\01.Series of Letters.pdb
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Regular-Expressions-HW\01.Series of Letters\obj\Debug\01.Series of Letters.csprojResolveAssemblyReference.cache
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Regular-Expressions-HW\01.Series of Letters\obj\Debug\01.Series of Letters.exe
+E:\SoftUni\Advanced CSharp\03.Strings And Text Processing, Regular Expressions\Regular-Expressions-HW\01.Series of Letters\obj\Debug\01.Series of Letters.pdb

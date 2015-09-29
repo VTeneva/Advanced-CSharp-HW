@@ -1,0 +1,6 @@
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Methods-Homework\03.Larger Than Neighbours\bin\Debug\03.Larger Than Neighbours.exe.config
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Methods-Homework\03.Larger Than Neighbours\bin\Debug\03.Larger Than Neighbours.exe
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Methods-Homework\03.Larger Than Neighbours\bin\Debug\03.Larger Than Neighbours.pdb
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Methods-Homework\03.Larger Than Neighbours\obj\Debug\03.Larger Than Neighbours.csprojResolveAssemblyReference.cache
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Methods-Homework\03.Larger Than Neighbours\obj\Debug\03.Larger Than Neighbours.exe
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Methods-Homework\03.Larger Than Neighbours\obj\Debug\03.Larger Than Neighbours.pdb

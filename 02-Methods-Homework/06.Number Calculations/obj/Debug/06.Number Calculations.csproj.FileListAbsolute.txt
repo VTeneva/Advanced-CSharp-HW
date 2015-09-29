@@ -1,0 +1,6 @@
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Methods-Homework\06.Number Calculations\bin\Debug\06.Number Calculations.exe.config
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Methods-Homework\06.Number Calculations\obj\Debug\06.Number Calculations.csprojResolveAssemblyReference.cache
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Methods-Homework\06.Number Calculations\bin\Debug\06.Number Calculations.exe
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Methods-Homework\06.Number Calculations\bin\Debug\06.Number Calculations.pdb
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Methods-Homework\06.Number Calculations\obj\Debug\06.Number Calculations.exe
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Methods-Homework\06.Number Calculations\obj\Debug\06.Number Calculations.pdb

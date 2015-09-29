@@ -1,0 +1,9 @@
+D:\VT\Advanced-C-Sharp-HW\01-Arrays-Lists-Stacks-Queues-Homework\03.Categorize Numbers and Find Min Max Average\bin\Debug\03.Categorize Numbers and Find Min Max Average.exe.config
+D:\VT\Advanced-C-Sharp-HW\01-Arrays-Lists-Stacks-Queues-Homework\03.Categorize Numbers and Find Min Max Average\bin\Debug\03.Categorize Numbers and Find Min Max Average.exe
+D:\VT\Advanced-C-Sharp-HW\01-Arrays-Lists-Stacks-Queues-Homework\03.Categorize Numbers and Find Min Max Average\bin\Debug\03.Categorize Numbers and Find Min Max Average.pdb
+D:\VT\Advanced-C-Sharp-HW\01-Arrays-Lists-Stacks-Queues-Homework\03.Categorize Numbers and Find Min Max Average\obj\Debug\03.Categorize Numbers and Find Min Max Average.csprojResolveAssemblyReference.cache
+D:\VT\Advanced-C-Sharp-HW\01-Arrays-Lists-Stacks-Queues-Homework\03.Categorize Numbers and Find Min Max Average\obj\Debug\03.Categorize Numbers and Find Min Max Average.exe
+D:\VT\Advanced-C-Sharp-HW\01-Arrays-Lists-Stacks-Queues-Homework\03.Categorize Numbers and Find Min Max Average\obj\Debug\03.Categorize Numbers and Find Min Max Average.pdb
+E:\SoftUni\Advanced CSharp\01.Arrays Lists Stacks Queues\01-Arrays-Lists-Stacks-Queues-Homework\03.Categorize Numbers and Find Min Max Average\bin\Debug\03.Categorize Numbers and Find Min Max Average.exe.config
+E:\SoftUni\Advanced CSharp\01.Arrays Lists Stacks Queues\01-Arrays-Lists-Stacks-Queues-Homework\03.Categorize Numbers and Find Min Max Average\obj\Debug\03.Categorize Numbers and Find Min Max Average.exe
+E:\SoftUni\Advanced CSharp\01.Arrays Lists Stacks Queues\01-Arrays-Lists-Stacks-Queues-Homework\03.Categorize Numbers and Find Min Max Average\obj\Debug\03.Categorize Numbers and Find Min Max Average.pdb

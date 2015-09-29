@@ -1,0 +1,6 @@
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Methods-Homework\05.Reverse Number\bin\Debug\05.Reverse Number.exe.config
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Methods-Homework\05.Reverse Number\bin\Debug\05.Reverse Number.exe
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Methods-Homework\05.Reverse Number\bin\Debug\05.Reverse Number.pdb
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Methods-Homework\05.Reverse Number\obj\Debug\05.Reverse Number.csprojResolveAssemblyReference.cache
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Methods-Homework\05.Reverse Number\obj\Debug\05.Reverse Number.exe
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Methods-Homework\05.Reverse Number\obj\Debug\05.Reverse Number.pdb

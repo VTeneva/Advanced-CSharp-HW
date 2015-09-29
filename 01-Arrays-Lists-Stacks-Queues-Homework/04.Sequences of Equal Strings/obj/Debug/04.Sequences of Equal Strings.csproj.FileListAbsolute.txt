@@ -1,0 +1,5 @@
+D:\VT\Advanced-C-Sharp-HW\01-Arrays-Lists-Stacks-Queues-Homework\04.Sequences of Equal Strings\bin\Debug\04.Sequences of Equal Strings.exe.config
+D:\VT\Advanced-C-Sharp-HW\01-Arrays-Lists-Stacks-Queues-Homework\04.Sequences of Equal Strings\bin\Debug\04.Sequences of Equal Strings.exe
+D:\VT\Advanced-C-Sharp-HW\01-Arrays-Lists-Stacks-Queues-Homework\04.Sequences of Equal Strings\bin\Debug\04.Sequences of Equal Strings.pdb
+D:\VT\Advanced-C-Sharp-HW\01-Arrays-Lists-Stacks-Queues-Homework\04.Sequences of Equal Strings\obj\Debug\04.Sequences of Equal Strings.exe
+D:\VT\Advanced-C-Sharp-HW\01-Arrays-Lists-Stacks-Queues-Homework\04.Sequences of Equal Strings\obj\Debug\04.Sequences of Equal Strings.pdb
