@@ -1,0 +1,6 @@
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\05.Slicing File\bin\Debug\05.Slicing File.exe.config
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\05.Slicing File\obj\Debug\05.Slicing File.csprojResolveAssemblyReference.cache
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\05.Slicing File\bin\Debug\05.Slicing File.exe
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\05.Slicing File\bin\Debug\05.Slicing File.pdb
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\05.Slicing File\obj\Debug\05.Slicing File.exe
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\05.Slicing File\obj\Debug\05.Slicing File.pdb

@@ -1,0 +1,6 @@
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\02.Line Numbers\bin\Debug\02.Line Numbers.exe.config
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\02.Line Numbers\bin\Debug\02.Line Numbers.exe
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\02.Line Numbers\bin\Debug\02.Line Numbers.pdb
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\02.Line Numbers\obj\Debug\02.Line Numbers.exe
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\02.Line Numbers\obj\Debug\02.Line Numbers.pdb
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\02.Line Numbers\obj\Debug\02.Line Numbers.csprojResolveAssemblyReference.cache

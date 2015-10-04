@@ -1,0 +1,6 @@
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\01.Odd Lines\bin\Debug\01.Odd Lines.exe.config
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\01.Odd Lines\bin\Debug\01.Odd Lines.exe
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\01.Odd Lines\bin\Debug\01.Odd Lines.pdb
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\01.Odd Lines\obj\Debug\01.Odd Lines.csprojResolveAssemblyReference.cache
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\01.Odd Lines\obj\Debug\01.Odd Lines.exe
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\01.Odd Lines\obj\Debug\01.Odd Lines.pdb

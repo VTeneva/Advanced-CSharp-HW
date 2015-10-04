@@ -1,0 +1,6 @@
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\04.Copy Binary File\bin\Debug\04.Copy Binary File.exe.config
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\04.Copy Binary File\obj\Debug\04.Copy Binary File.csprojResolveAssemblyReference.cache
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\04.Copy Binary File\bin\Debug\04.Copy Binary File.exe
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\04.Copy Binary File\bin\Debug\04.Copy Binary File.pdb
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\04.Copy Binary File\obj\Debug\04.Copy Binary File.exe
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\04.Copy Binary File\obj\Debug\04.Copy Binary File.pdb

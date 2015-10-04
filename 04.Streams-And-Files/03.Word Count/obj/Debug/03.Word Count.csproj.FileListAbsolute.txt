@@ -1,0 +1,6 @@
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\03.Word Count\bin\Debug\03.Word Count.exe.config
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\03.Word Count\bin\Debug\03.Word Count.exe
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\03.Word Count\bin\Debug\03.Word Count.pdb
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\03.Word Count\obj\Debug\03.Word Count.csprojResolveAssemblyReference.cache
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\03.Word Count\obj\Debug\03.Word Count.exe
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\03.Word Count\obj\Debug\03.Word Count.pdb
