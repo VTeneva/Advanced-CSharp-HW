@@ -1,0 +1,6 @@
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\05.Collect the Coins\bin\Debug\05.Collect the Coins.exe.config
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\05.Collect the Coins\bin\Debug\05.Collect the Coins.exe
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\05.Collect the Coins\bin\Debug\05.Collect the Coins.pdb
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\05.Collect the Coins\obj\Debug\05.Collect the Coins.csprojResolveAssemblyReference.cache
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\05.Collect the Coins\obj\Debug\05.Collect the Coins.exe
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\05.Collect the Coins\obj\Debug\05.Collect the Coins.pdb

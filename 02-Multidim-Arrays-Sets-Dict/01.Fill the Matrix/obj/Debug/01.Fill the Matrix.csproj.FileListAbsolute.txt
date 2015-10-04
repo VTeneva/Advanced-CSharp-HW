@@ -1,0 +1,9 @@
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\01.Fill the Matrix\bin\Debug\01.Fill the Matrix.exe.config
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\01.Fill the Matrix\bin\Debug\01.Fill the Matrix.exe
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\01.Fill the Matrix\bin\Debug\01.Fill the Matrix.pdb
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\01.Fill the Matrix\obj\Debug\01.Fill the Matrix.csprojResolveAssemblyReference.cache
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\01.Fill the Matrix\obj\Debug\01.Fill the Matrix.exe
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\01.Fill the Matrix\obj\Debug\01.Fill the Matrix.pdb
+E:\SoftUni\Advanced CSharp\Advanced CSharp\02-Multidim-Arrays-Sets-Dict\01.Fill the Matrix\bin\Debug\01.Fill the Matrix.exe.config
+E:\SoftUni\Advanced CSharp\Advanced CSharp\02-Multidim-Arrays-Sets-Dict\01.Fill the Matrix\obj\Debug\01.Fill the Matrix.exe
+E:\SoftUni\Advanced CSharp\Advanced CSharp\02-Multidim-Arrays-Sets-Dict\01.Fill the Matrix\obj\Debug\01.Fill the Matrix.pdb

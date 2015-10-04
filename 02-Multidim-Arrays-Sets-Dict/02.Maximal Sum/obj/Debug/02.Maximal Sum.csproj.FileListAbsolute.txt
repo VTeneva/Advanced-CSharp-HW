@@ -1,0 +1,6 @@
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\02.Maximal Sum\bin\Debug\02.Maximal Sum.exe.config
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\02.Maximal Sum\bin\Debug\02.Maximal Sum.exe
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\02.Maximal Sum\bin\Debug\02.Maximal Sum.pdb
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\02.Maximal Sum\obj\Debug\02.Maximal Sum.csprojResolveAssemblyReference.cache
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\02.Maximal Sum\obj\Debug\02.Maximal Sum.exe
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\02.Maximal Sum\obj\Debug\02.Maximal Sum.pdb

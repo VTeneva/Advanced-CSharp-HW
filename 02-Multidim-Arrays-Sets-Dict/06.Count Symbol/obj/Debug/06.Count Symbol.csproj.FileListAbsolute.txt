@@ -1,0 +1,5 @@
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\06.Count Symbol\bin\Debug\06.Count Symbol.exe.config
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\06.Count Symbol\bin\Debug\06.Count Symbol.exe
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\06.Count Symbol\bin\Debug\06.Count Symbol.pdb
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\06.Count Symbol\obj\Debug\06.Count Symbol.exe
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\06.Count Symbol\obj\Debug\06.Count Symbol.pdb

@@ -1,0 +1,5 @@
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\07.Directory Traversal\bin\Debug\07.Directory Traversal.exe.config
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\07.Directory Traversal\bin\Debug\07.Directory Traversal.exe
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\07.Directory Traversal\bin\Debug\07.Directory Traversal.pdb
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\07.Directory Traversal\obj\Debug\07.Directory Traversal.exe
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\07.Directory Traversal\obj\Debug\07.Directory Traversal.pdb

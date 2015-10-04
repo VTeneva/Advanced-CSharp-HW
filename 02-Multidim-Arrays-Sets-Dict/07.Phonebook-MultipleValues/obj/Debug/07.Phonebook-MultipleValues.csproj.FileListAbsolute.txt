@@ -1,0 +1,6 @@
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\07.Phonebook-MultipleValues\bin\Debug\07.Phonebook-MultipleValues.exe.config
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\07.Phonebook-MultipleValues\bin\Debug\07.Phonebook-MultipleValues.exe
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\07.Phonebook-MultipleValues\bin\Debug\07.Phonebook-MultipleValues.pdb
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\07.Phonebook-MultipleValues\obj\Debug\07.Phonebook-MultipleValues.csprojResolveAssemblyReference.cache
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\07.Phonebook-MultipleValues\obj\Debug\07.Phonebook-MultipleValues.exe
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\07.Phonebook-MultipleValues\obj\Debug\07.Phonebook-MultipleValues.pdb

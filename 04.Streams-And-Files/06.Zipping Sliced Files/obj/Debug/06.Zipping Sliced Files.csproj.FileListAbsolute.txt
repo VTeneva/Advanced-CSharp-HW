@@ -1,0 +1,6 @@
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\06.Zipping Sliced Files\bin\Debug\06.Zipping Sliced Files.exe.config
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\06.Zipping Sliced Files\bin\Debug\06.Zipping Sliced Files.exe
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\06.Zipping Sliced Files\bin\Debug\06.Zipping Sliced Files.pdb
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\06.Zipping Sliced Files\obj\Debug\06.Zipping Sliced Files.csprojResolveAssemblyReference.cache
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\06.Zipping Sliced Files\obj\Debug\06.Zipping Sliced Files.exe
+E:\SoftUni\Advanced CSharp\Advanced CSharp\04.Streams-And-Files\06.Zipping Sliced Files\obj\Debug\06.Zipping Sliced Files.pdb

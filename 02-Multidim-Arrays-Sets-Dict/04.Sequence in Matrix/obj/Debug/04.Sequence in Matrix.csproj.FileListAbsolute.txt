@@ -1,0 +1,6 @@
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\04.Sequence in Matrix\bin\Debug\04.Sequence in Matrix.exe.config
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\04.Sequence in Matrix\bin\Debug\04.Sequence in Matrix.exe
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\04.Sequence in Matrix\bin\Debug\04.Sequence in Matrix.pdb
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\04.Sequence in Matrix\obj\Debug\04.Sequence in Matrix.csprojResolveAssemblyReference.cache
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\04.Sequence in Matrix\obj\Debug\04.Sequence in Matrix.exe
+E:\SoftUni\Advanced CSharp\02.Multidimensional Arrays Sets Dictionaries\02-Multidim-Arrays-Sets-Dict\04.Sequence in Matrix\obj\Debug\04.Sequence in Matrix.pdb
