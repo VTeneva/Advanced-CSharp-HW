@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Command Interpreter", "01.Command Interpreter\01.Command Interpreter.csproj", "{CEE69A31-80A9-4C46-B42B-BA6886A535BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Text Transformer", "03.Text Transformer\03.Text Transformer.csproj", "{787988DB-0BF7-48D9-8485-C3B6A53CF57C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEE69A31-80A9-4C46-B42B-BA6886A535BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE69A31-80A9-4C46-B42B-BA6886A535BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE69A31-80A9-4C46-B42B-BA6886A535BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE69A31-80A9-4C46-B42B-BA6886A535BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{787988DB-0BF7-48D9-8485-C3B6A53CF57C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{787988DB-0BF7-48D9-8485-C3B6A53CF57C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{787988DB-0BF7-48D9-8485-C3B6A53CF57C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{787988DB-0BF7-48D9-8485-C3B6A53CF57C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

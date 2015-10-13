@@ -1,0 +1,5 @@
+E:\SoftUni\Advanced CSharp\Advanced CSharp\05.Exams\Advanced CSharp Exam 31 May 2015\03.Text Transformer\bin\Debug\03.Text Transformer.exe.config
+E:\SoftUni\Advanced CSharp\Advanced CSharp\05.Exams\Advanced CSharp Exam 31 May 2015\03.Text Transformer\bin\Debug\03.Text Transformer.exe
+E:\SoftUni\Advanced CSharp\Advanced CSharp\05.Exams\Advanced CSharp Exam 31 May 2015\03.Text Transformer\bin\Debug\03.Text Transformer.pdb
+E:\SoftUni\Advanced CSharp\Advanced CSharp\05.Exams\Advanced CSharp Exam 31 May 2015\03.Text Transformer\obj\Debug\03.Text Transformer.exe
+E:\SoftUni\Advanced CSharp\Advanced CSharp\05.Exams\Advanced CSharp Exam 31 May 2015\03.Text Transformer\obj\Debug\03.Text Transformer.pdb

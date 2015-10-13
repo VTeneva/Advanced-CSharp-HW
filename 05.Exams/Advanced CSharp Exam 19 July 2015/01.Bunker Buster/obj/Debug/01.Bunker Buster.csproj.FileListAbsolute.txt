@@ -1,0 +1,6 @@
+E:\SoftUni\Advanced CSharp\Advanced CSharp\05.Exams\Advanced CSharp Exam 19 July 2015\01.Bunker Buster\bin\Debug\01.Bunker Buster.exe.config
+E:\SoftUni\Advanced CSharp\Advanced CSharp\05.Exams\Advanced CSharp Exam 19 July 2015\01.Bunker Buster\obj\Debug\01.Bunker Buster.csprojResolveAssemblyReference.cache
+E:\SoftUni\Advanced CSharp\Advanced CSharp\05.Exams\Advanced CSharp Exam 19 July 2015\01.Bunker Buster\bin\Debug\01.Bunker Buster.exe
+E:\SoftUni\Advanced CSharp\Advanced CSharp\05.Exams\Advanced CSharp Exam 19 July 2015\01.Bunker Buster\bin\Debug\01.Bunker Buster.pdb
+E:\SoftUni\Advanced CSharp\Advanced CSharp\05.Exams\Advanced CSharp Exam 19 July 2015\01.Bunker Buster\obj\Debug\01.Bunker Buster.exe
+E:\SoftUni\Advanced CSharp\Advanced CSharp\05.Exams\Advanced CSharp Exam 19 July 2015\01.Bunker Buster\obj\Debug\01.Bunker Buster.pdb

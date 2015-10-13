@@ -1,0 +1,5 @@
+E:\SoftUni\Advanced CSharp\Advanced CSharp\05.Exams\Advanced CSharp Exam 19 July 2015\02.Array Slider\bin\Debug\02.Array Slider.exe.config
+E:\SoftUni\Advanced CSharp\Advanced CSharp\05.Exams\Advanced CSharp Exam 19 July 2015\02.Array Slider\bin\Debug\02.Array Slider.exe
+E:\SoftUni\Advanced CSharp\Advanced CSharp\05.Exams\Advanced CSharp Exam 19 July 2015\02.Array Slider\bin\Debug\02.Array Slider.pdb
+E:\SoftUni\Advanced CSharp\Advanced CSharp\05.Exams\Advanced CSharp Exam 19 July 2015\02.Array Slider\obj\Debug\02.Array Slider.exe
+E:\SoftUni\Advanced CSharp\Advanced CSharp\05.Exams\Advanced CSharp Exam 19 July 2015\02.Array Slider\obj\Debug\02.Array Slider.pdb
