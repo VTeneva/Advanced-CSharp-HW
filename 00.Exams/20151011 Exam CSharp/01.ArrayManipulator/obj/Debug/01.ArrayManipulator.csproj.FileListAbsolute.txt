@@ -1,0 +1,6 @@
+E:\SoftUni\Advanced CSharp\Exam\20151011 Exam CSharp\01.ArrayManipulator\bin\Debug\01.ArrayManipulator.exe.config
+E:\SoftUni\Advanced CSharp\Exam\20151011 Exam CSharp\01.ArrayManipulator\bin\Debug\01.ArrayManipulator.exe
+E:\SoftUni\Advanced CSharp\Exam\20151011 Exam CSharp\01.ArrayManipulator\bin\Debug\01.ArrayManipulator.pdb
+E:\SoftUni\Advanced CSharp\Exam\20151011 Exam CSharp\01.ArrayManipulator\obj\Debug\01.ArrayManipulator.csprojResolveAssemblyReference.cache
+E:\SoftUni\Advanced CSharp\Exam\20151011 Exam CSharp\01.ArrayManipulator\obj\Debug\01.ArrayManipulator.exe
+E:\SoftUni\Advanced CSharp\Exam\20151011 Exam CSharp\01.ArrayManipulator\obj\Debug\01.ArrayManipulator.pdb
